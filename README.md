@@ -1,4 +1,2 @@
-# Trivia 
-# Juego de trivia 
-#hola
-
+# Trivia
+# juego de trivia
